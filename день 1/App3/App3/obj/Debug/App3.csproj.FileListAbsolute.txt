@@ -1,0 +1,8 @@
+D:\Учёба\Практика КПиЯП\день 1\App3\App3\bin\Debug\App3.exe.config
+D:\Учёба\Практика КПиЯП\день 1\App3\App3\bin\Debug\App3.exe
+D:\Учёба\Практика КПиЯП\день 1\App3\App3\bin\Debug\App3.pdb
+D:\Учёба\Практика КПиЯП\день 1\App3\App3\obj\Debug\App3.csproj.AssemblyReference.cache
+D:\Учёба\Практика КПиЯП\день 1\App3\App3\obj\Debug\App3.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Практика КПиЯП\день 1\App3\App3\obj\Debug\App3.csproj.CoreCompileInputs.cache
+D:\Учёба\Практика КПиЯП\день 1\App3\App3\obj\Debug\App3.exe
+D:\Учёба\Практика КПиЯП\день 1\App3\App3\obj\Debug\App3.pdb
