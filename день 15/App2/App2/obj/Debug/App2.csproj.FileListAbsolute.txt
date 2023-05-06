@@ -1,0 +1,11 @@
+D:\Учёба\Практика КПиЯП\день 15\App2\App2\bin\Debug\App2.exe.config
+D:\Учёба\Практика КПиЯП\день 15\App2\App2\bin\Debug\App2.exe
+D:\Учёба\Практика КПиЯП\день 15\App2\App2\bin\Debug\App2.pdb
+D:\Учёба\Практика КПиЯП\день 15\App2\App2\obj\Debug\App2.csproj.AssemblyReference.cache
+D:\Учёба\Практика КПиЯП\день 15\App2\App2\obj\Debug\App2.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Практика КПиЯП\день 15\App2\App2\obj\Debug\App2.Form1.resources
+D:\Учёба\Практика КПиЯП\день 15\App2\App2\obj\Debug\App2.Properties.Resources.resources
+D:\Учёба\Практика КПиЯП\день 15\App2\App2\obj\Debug\App2.csproj.GenerateResource.cache
+D:\Учёба\Практика КПиЯП\день 15\App2\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+D:\Учёба\Практика КПиЯП\день 15\App2\App2\obj\Debug\App2.exe
+D:\Учёба\Практика КПиЯП\день 15\App2\App2\obj\Debug\App2.pdb
