@@ -1,0 +1,11 @@
+D:\Учёба\Практика КПиЯП\день 15\App6\bin\Debug\Задание 6.exe.config
+D:\Учёба\Практика КПиЯП\день 15\App6\bin\Debug\Задание 6.exe
+D:\Учёба\Практика КПиЯП\день 15\App6\bin\Debug\Задание 6.pdb
+D:\Учёба\Практика КПиЯП\день 15\App6\obj\Debug\App6.csproj.AssemblyReference.cache
+D:\Учёба\Практика КПиЯП\день 15\App6\obj\Debug\App6.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Практика КПиЯП\день 15\App6\obj\Debug\Задание_6.Form1.resources
+D:\Учёба\Практика КПиЯП\день 15\App6\obj\Debug\Задание_6.Properties.Resources.resources
+D:\Учёба\Практика КПиЯП\день 15\App6\obj\Debug\App6.csproj.GenerateResource.cache
+D:\Учёба\Практика КПиЯП\день 15\App6\obj\Debug\App6.csproj.CoreCompileInputs.cache
+D:\Учёба\Практика КПиЯП\день 15\App6\obj\Debug\Задание 6.exe
+D:\Учёба\Практика КПиЯП\день 15\App6\obj\Debug\Задание 6.pdb

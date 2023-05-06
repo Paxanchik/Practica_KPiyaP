@@ -1,0 +1,11 @@
+C:\Users\aleks\OneDrive\Рабочий стол\Учёба\Практика\День 15\Задание 6\bin\Debug\Задание 6.exe.config
+C:\Users\aleks\OneDrive\Рабочий стол\Учёба\Практика\День 15\Задание 6\bin\Debug\Задание 6.exe
+C:\Users\aleks\OneDrive\Рабочий стол\Учёба\Практика\День 15\Задание 6\bin\Debug\Задание 6.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\Учёба\Практика\День 15\Задание 6\obj\Debug\Задание 6.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Учёба\Практика\День 15\Задание 6\obj\Debug\Задание 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Учёба\Практика\День 15\Задание 6\obj\Debug\Задание_6.Form1.resources
+C:\Users\aleks\OneDrive\Рабочий стол\Учёба\Практика\День 15\Задание 6\obj\Debug\Задание_6.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Рабочий стол\Учёба\Практика\День 15\Задание 6\obj\Debug\Задание 6.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Учёба\Практика\День 15\Задание 6\obj\Debug\Задание 6.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\Учёба\Практика\День 15\Задание 6\obj\Debug\Задание 6.exe
+C:\Users\aleks\OneDrive\Рабочий стол\Учёба\Практика\День 15\Задание 6\obj\Debug\Задание 6.pdb
