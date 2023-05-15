@@ -1,0 +1,12 @@
+get_count
+set_count
+now
+ToString
+Equals
+GetHashCode
+GetType
+.ctor
+count
+name
+age
+s
