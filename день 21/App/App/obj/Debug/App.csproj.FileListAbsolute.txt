@@ -1,0 +1,14 @@
+D:\Учёба\Практика КПиЯП\день 21\App\App\bin\Debug\App.exe.config
+D:\Учёба\Практика КПиЯП\день 21\App\App\bin\Debug\App.exe
+D:\Учёба\Практика КПиЯП\день 21\App\App\bin\Debug\App.pdb
+D:\Учёба\Практика КПиЯП\день 21\App\App\bin\Debug\Newtonsoft.Json.dll
+D:\Учёба\Практика КПиЯП\день 21\App\App\bin\Debug\Newtonsoft.Json.xml
+D:\Учёба\Практика КПиЯП\день 21\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+D:\Учёба\Практика КПиЯП\день 21\App\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Практика КПиЯП\день 21\App\App\obj\Debug\App.Form1.resources
+D:\Учёба\Практика КПиЯП\день 21\App\App\obj\Debug\App.Properties.Resources.resources
+D:\Учёба\Практика КПиЯП\день 21\App\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\Учёба\Практика КПиЯП\день 21\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\Учёба\Практика КПиЯП\день 21\App\App\obj\Debug\App.csproj.CopyComplete
+D:\Учёба\Практика КПиЯП\день 21\App\App\obj\Debug\App.exe
+D:\Учёба\Практика КПиЯП\день 21\App\App\obj\Debug\App.pdb
